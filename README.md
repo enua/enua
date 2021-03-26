@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @enua
+- 👀 I’m interested in TypeScript, Angular, Vue and Javascript
+- 🌱 I’m currently learning VueJs
