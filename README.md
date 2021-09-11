@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @enua
 - 👀 I’m interested in Javascript, TypeScript; Angular, Vue and React
 - 🌱 I’m currently learning VueJs
+- portfolio: https://perlaweb.es
